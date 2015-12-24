@@ -25,7 +25,7 @@ The initial datasets can be found in the <a href="https://d396qusza40orc.cloudfr
 
 "ActivityDescr"
 	Activities of the subjects of the measurements.
-	List of Values: 
+
 	- WALKING
 
 	- WALKING_UPSTAIRS
