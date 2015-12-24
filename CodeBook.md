@@ -26,13 +26,12 @@ The initial datasets can be found in the <a href="https://d396qusza40orc.cloudfr
 "ActivityDescr"
 	Activities of the subjects of the measurements.
 
-	- WALKING
-
-	- WALKING_UPSTAIRS
-	- WALKING_DOWNSTAIRS
-	- SITTING
-	- STANDING
-	- LAYING
+	* WALKING
+	* WALKING_UPSTAIRS
+	* WALKING_DOWNSTAIRS
+	* SITTING
+	* STANDING
+	* LAYING
  
 
 "SubjectID"
@@ -75,25 +74,25 @@ The below 66 columns that contain the mean of the mean() and std() variables of 
 "MeanOf_fBodyBodyGyroJerkMag.mean.." "MeanOf_fBodyBodyGyroJerkMag.std.." 
 	
 Naming convention of these 66 columns:
-	"MeanOf_": Declares that contained value is the mean() of...
-	"tBodyAcc"
-	"tGravityAcc"
-	"tBodyAccJerk"
-	"tBodyGyro"
-	"tBodyGyroJerk"
-	"tBodyAccMag"
-	"tGravityAccMag"
-	"tBodyAccJerkMag"
-	"tBodyGyroMag"
-	"tBodyGyroJerkMag"
-	"fBodyAcc"
-	"fBodyAccJerk"
-	"fBodyGyro"
-	"fBodyAccMag"
-	"fBodyAccJerkMag"
-	"fBodyGyroMag"
-	"fBodyGyroJerkMag"
-	Signals measured. "f" also declares that Fast Fourier Transform (FFT) was applied.
-	".mean.." or ".std..": Declares the set of variables that initially have been estimated for the above signals
-	".X" or ".Y" or ".Z": Declares the axis of the signal, if applicable   
+	* "MeanOf_": Declares that contained value is the mean() of...
+	* "tBodyAcc"
+	* "tGravityAcc"
+	* "tBodyAccJerk"
+	* "tBodyGyro"
+	* "tBodyGyroJerk"
+	* "tBodyAccMag"
+	* "tGravityAccMag"
+	* "tBodyAccJerkMag"
+	* "tBodyGyroMag"
+	* "tBodyGyroJerkMag"
+	* "fBodyAcc"
+	* "fBodyAccJerk"
+	* "fBodyGyro"
+	* "fBodyAccMag"
+	* "fBodyAccJerkMag"
+	* "fBodyGyroMag"
+	* "fBodyGyroJerkMag"
+		Signals measured. "f" also declares that Fast Fourier Transform (FFT) was applied.
+	* ".mean.." or ".std..": Declares the set of variables that initially have been estimated for the above signals
+	* ".X" or ".Y" or ".Z": Declares the axis of the signal, if applicable   
 
