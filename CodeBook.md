@@ -5,8 +5,8 @@
 The "MeansOfTestAndTrainDataPerActivityAndSubject.txt" contains a tab delimited dataset with a header row.
 It is the result of the merging, grouping per activity and subject and finally of the application of the Mean() function on the mean() and std() variables.
 Data are related to measurements related wit wearable computing. 
-More info at: <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>
-The initial datasets can be found in the <a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip> 
+More info at: <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones">
+The initial datasets can be found in the <a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"> 
 
 <b>Sort Description of the processing done on the initiall data</b>
 
