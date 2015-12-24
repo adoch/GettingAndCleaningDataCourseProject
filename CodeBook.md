@@ -24,15 +24,15 @@ The initial datasets can be found in the <a href="https://d396qusza40orc.cloudfr
 <b>Column Description</b>
 
 "ActivityDescr"
-Activities of the subjects of the measurements.
-List of Values: 
-WALKING
+	Activities of the subjects of the measurements.
+	List of Values: 
+	- WALKING
 
-WALKING_UPSTAIRS
-WALKING_DOWNSTAIRS
-SITTING
-STANDING
-LAYING
+	- WALKING_UPSTAIRS
+	- WALKING_DOWNSTAIRS
+	- SITTING
+	- STANDING
+	- LAYING
  
 
 "SubjectID"
