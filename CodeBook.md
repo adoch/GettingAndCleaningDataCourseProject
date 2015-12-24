@@ -75,6 +75,7 @@ The below 66 columns that contain the mean of the mean() and std() variables of 
 	
 Naming convention of these 66 columns:
 	* "MeanOf_": Declares that contained value is the mean() of...
+
 	* "tBodyAcc"
 	* "tGravityAcc"
 	* "tBodyAccJerk"
@@ -93,6 +94,8 @@ Naming convention of these 66 columns:
 	* "fBodyGyroMag"
 	* "fBodyGyroJerkMag"
 		Signals measured. "f" also declares that Fast Fourier Transform (FFT) was applied.
+
 	* ".mean.." or ".std..": Declares the set of variables that initially have been estimated for the above signals
+
 	* ".X" or ".Y" or ".Z": Declares the axis of the signal, if applicable   
 
