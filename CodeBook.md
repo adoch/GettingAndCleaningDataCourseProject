@@ -74,6 +74,7 @@ The below 66 columns that contain the mean of the mean() and std() variables of 
 "MeanOf_fBodyBodyGyroJerkMag.mean.." "MeanOf_fBodyBodyGyroJerkMag.std.." 
 	
 Naming convention of these 66 columns:
+
 	* "MeanOf_": Declares that contained value is the mean() of...
 
 	* "tBodyAcc"
